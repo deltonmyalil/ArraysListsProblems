@@ -1,4 +1,4 @@
-package averageFinder;
+package problemsAndChallengesDrivers;
 import java.util.Scanner;
 public class AverageFinder {
 

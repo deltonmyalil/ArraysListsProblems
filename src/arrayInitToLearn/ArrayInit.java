@@ -1,4 +1,4 @@
-package arrayInit;
+package arrayInitToLearn;
 
 public class ArrayInit {
 	public static void main(String[] args) {
